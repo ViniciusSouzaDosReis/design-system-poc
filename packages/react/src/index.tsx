@@ -1,5 +1,9 @@
-import { colors } from '@poc-design-system-ui/tokens'
+import { styled } from './styles'
+
+const Button = styled('button', {
+  fontFamily: '$code',
+})
 
 export function App() {
-  return <h1 style={{ color: colors.gray100 }}>Ola</h1>
+  return <Button>Ola</Button>
 }
