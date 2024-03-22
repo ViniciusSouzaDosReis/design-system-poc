@@ -1,0 +1,3 @@
+{
+  "extends": "@poc-design-system-ui/eslint-config"
+}
