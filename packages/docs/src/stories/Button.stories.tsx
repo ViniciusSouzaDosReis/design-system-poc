@@ -1,5 +1,5 @@
-import { Button, ButtonProps } from '@poc-design-system-ui/react'
 import type { Meta, StoryObj } from '@storybook/react'
+import { Button, ButtonProps } from '@poc-design-system-ui/react'
 
 export default {
   title: 'Button',
@@ -12,8 +12,8 @@ export default {
 
 export const Primary: StoryObj<ButtonProps> = {}
 
-export const Small: StoryObj<ButtonProps> = {
+export const Big: StoryObj<ButtonProps> = {
   args: {
-    size: 'sm',
+    size: 'small',
   },
 }
