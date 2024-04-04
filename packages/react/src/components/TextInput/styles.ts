@@ -27,6 +27,10 @@ export const TextInputContainer = styled('div', {
     opacity: 0.5,
     cursor: 'not-allowed',
   },
+
+  defaultVariants: {
+    size: 'md',
+  },
 })
 
 export const Prefix = styled('span', {
