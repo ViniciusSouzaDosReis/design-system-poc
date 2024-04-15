@@ -1,5 +1,11 @@
 # @poc-design-system-ui/react
 
+## 1.0.4
+
+### Patch Changes
+
+- fix checkbox props error
+
 ## 1.0.3
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # @poc-design-system-ui/eslint-config
 
+## 2.0.2
+
+### Patch Changes
+
+- fix checkbox props error
+
 ## 2.0.1
 
 ### Patch Changes
